@@ -186,6 +186,7 @@ AI & Machine Learning ██████████░░░░░░░░░�
 
 - ✅ **GitHub Foundations** - Mejores prácticas en control de versiones y colaboración
 - ✅ **Azure Fundamentals** - Fundamentos de computación en la nube con Microsoft Azure
+- ✅ **Azure AI Fundamentals** - Fundamentos de AI en la nube con Microsoft Azure
 
 ---
 
