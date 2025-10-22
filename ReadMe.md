@@ -224,11 +224,6 @@ class Developer:
 
 <div align="center">
 
-### 👀 Visitas al Perfil
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=julio870928&icon=0&color=2)](https://visitcount.itsvg.in)
-
----
 
 **⭐ Si te gustan mis proyectos, considera darles una estrella!**
 
